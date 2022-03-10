@@ -23,16 +23,16 @@
     margin-top: 25px;
 }
 .cards{
-    margin-left: 30px;
-    margin-top: 100px;
+    margin-left: 250px;
+    margin-top: 400px;
     display: flex;
     flex-wrap: wrap;
     margin: 16px auto;
-    width: 65%;
+    width: 90%;
 }
 .card{
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 25px;
+    margin-right: 20px;
 }
 .nav-item{
     margin-left: 170px;
