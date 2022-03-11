@@ -46,3 +46,23 @@
     margin-right: 15px;
     position: relative;
 }
+.accordion-button:focus {
+    z-index: 3;
+    border-color: #d9915d !important;
+    background-color: #dabba5 !important;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem #d9915d;
+    color: white;
+}
+.bg-personal-dark{
+    color: white;
+    background-color: #d9915d !important;
+}
+.bg-personal-light{
+    color: white;
+    background-color: #dabba5  !important;
+}
+.btn-personal{
+    color: white;
+    background-color: #d9915d !important;
+}
